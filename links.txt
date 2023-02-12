@@ -1,1 +1,1 @@
-https://cdn.jsdelivr.net/gh/davisvilory/FESDKV3@0d2b83d559a3e08bbf8eecd0132cc8e7d2c77457/adminlte/adminlte.min.js
+https://cdn.jsdelivr.net/gh/davisvilory/FESDKV3@main/adminlte/adminlte.min.js
