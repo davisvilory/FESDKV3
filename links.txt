@@ -1,1 +1,5 @@
+//adminlte
 https://cdn.jsdelivr.net/gh/davisvilory/FESDKV3@main/adminlte/adminlte.min.js
+
+//webfonts
+https://cdn.jsdelivr.net/gh/davisvilory/FESDKV3@main/webfonts/fa-brands-400.eot
