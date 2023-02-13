@@ -1,5 +1,56 @@
 //adminlte
 https://cdn.jsdelivr.net/gh/davisvilory/FESDKV3@main/adminlte/adminlte.min.js
+https://cdn.jsdelivr.net/gh/davisvilory/FESDKV3@main/adminlte/adminlte.min.css
 
-//webfonts
+//easyui
+https://cdn.jsdelivr.net/gh/davisvilory/FESDKV3@main/easyui/easyui.css
+https://cdn.jsdelivr.net/gh/davisvilory/FESDKV3@main/easyui/easyui.js
+
+//fasterxmlparser
+https://cdn.jsdelivr.net/gh/davisvilory/FESDKV3@main/fastxmlparser/fasterxmlparser.js
+
+//formatoselectronicos
+https://cdn.jsdelivr.net/gh/davisvilory/FESDKV3@main/fe/formatosElectronicos.js
+
+//filesaver
+https://cdn.jsdelivr.net/gh/davisvilory/FESDKV3@main/filesaver/filesaver.js
+
+//flatpickr
+https://cdn.jsdelivr.net/gh/davisvilory/FESDKV3@main/flatpickr/flatpickr.min.js
+
+//fontawesome
+https://cdn.jsdelivr.net/gh/davisvilory/FESDKV3@main/fontawesome/all.min.css
+
+//jquery-validation
+https://cdn.jsdelivr.net/gh/davisvilory/FESDKV3@main/jquery-validation/jquery.validate.min.js
+
+//jscolor
+https://cdn.jsdelivr.net/gh/davisvilory/FESDKV3@main/jscolor/jscolor.min.js
+
+//knockout
+https://cdn.jsdelivr.net/gh/davisvilory/FESDKV3@main/knockoutjs/knockout-3.4.1.js
+
+//ol_maps && knob
+https://cdn.jsdelivr.net/gh/davisvilory/FESDKV3@main/maps_knob/ol.js
+
+//modernizr
+https://cdn.jsdelivr.net/gh/davisvilory/FESDKV3@main/modernizr/modernizr.js
+
+//webfonts brands
 https://cdn.jsdelivr.net/gh/davisvilory/FESDKV3@main/webfonts/fa-brands-400.eot
+https://cdn.jsdelivr.net/gh/davisvilory/FESDKV3@main/webfonts/fa-brands-400.svg
+https://cdn.jsdelivr.net/gh/davisvilory/FESDKV3@main/webfonts/fa-brands-400.ttf
+https://cdn.jsdelivr.net/gh/davisvilory/FESDKV3@main/webfonts/fa-brands-400.woff
+https://cdn.jsdelivr.net/gh/davisvilory/FESDKV3@main/webfonts/fa-brands-400.woff2
+//webfonts regular
+https://cdn.jsdelivr.net/gh/davisvilory/FESDKV3@main/webfonts/fa-regular-400.eot
+https://cdn.jsdelivr.net/gh/davisvilory/FESDKV3@main/webfonts/fa-regular-400.svg
+https://cdn.jsdelivr.net/gh/davisvilory/FESDKV3@main/webfonts/fa-regular-400.ttf
+https://cdn.jsdelivr.net/gh/davisvilory/FESDKV3@main/webfonts/fa-regular-400.woff
+https://cdn.jsdelivr.net/gh/davisvilory/FESDKV3@main/webfonts/fa-regular-400.woff2
+//webfonts solid
+https://cdn.jsdelivr.net/gh/davisvilory/FESDKV3@main/webfonts/fa-solid-900.eot
+https://cdn.jsdelivr.net/gh/davisvilory/FESDKV3@main/webfonts/fa-solid-900.svg
+https://cdn.jsdelivr.net/gh/davisvilory/FESDKV3@main/webfonts/fa-solid-900.ttf
+https://cdn.jsdelivr.net/gh/davisvilory/FESDKV3@main/webfonts/fa-solid-900.woff
+https://cdn.jsdelivr.net/gh/davisvilory/FESDKV3@main/webfonts/fa-solid-900.woff2
